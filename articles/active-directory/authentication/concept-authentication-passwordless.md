@@ -142,6 +142,7 @@ The following providers offer FIDO2 security keys of different form factors that
 
 > [!NOTE]
 > If you purchase and plan to use NFC-based security keys, you need a supported NFC reader for the security key. The NFC reader isn't an Azure requirement or limitation. Check with the vendor for your NFC-based security key for a list of supported NFC readers.
+> BLE is not a general secure solution and shouldn't being seen as a secure signin methode.
 
 If you're a vendor and want to get your device on this list of supported devices, check out our guidance on how to [become a Microsoft-compatible FIDO2 security key vendor](concept-fido2-hardware-vendor.md).
 
